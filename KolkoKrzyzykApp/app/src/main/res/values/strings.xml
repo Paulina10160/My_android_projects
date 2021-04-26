@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kółko i Krzyżyk</string>
+
+    <string name="homeTitle">Kółko i Krzyżyk</string>
+    <string name="playButton">Graj</string>
+
+    <string name="PlayerSetupTitle">Wprowadź swoją nazwę</string>
+    <string name="Label1">Player 1</string>
+    <string name="Label2">Player 2</string>
+    <string name="submitButton">Zatwierdź nazwę</string>
+    <string name="NameHint">Wprowadź swoją nazwę</string>
+
+    <string name="playAgainButton">Zagraj ponownie</string>
+    <string name="homeButton">Wróć</string>
+</resources>
