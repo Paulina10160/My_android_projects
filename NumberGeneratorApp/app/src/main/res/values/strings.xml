@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NumberGeneratorApp</string>
+    <string name="lotto1">Lotto</string>
+    <string name="lotto2">Szybkie 600</string>
+    <string name="lotto3">Euro Jackpot</string>
+    <string name="lotto4">Keno</string>
+    <string name="lotto5">Multi Multi</string>
+    <string name="lotto6">Ekstra Pensja</string>
+    <string name="lotto7">Mini Lotto</string>
+    <string name="Lotto8">Kaskada</string>
+    <string name="Lotto9">Super Szansa</string>
+    <string name="text1">Witaj w generatorze liczb!</string>
+    <string name="text2">Wybierz grę:</string>
+
+</resources>
